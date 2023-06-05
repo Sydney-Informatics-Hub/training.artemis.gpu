@@ -10,7 +10,7 @@ If you only want to follow along using Artemis, all you need is an SSH client, a
 
 We will be using the Artemis Training accounts today (instructions detailed below.)
 
-All the data/scripts used in this course is location on Artemis at ```/project/Training/GPUtraining``` (which you can access through the training accounts) or you can [download the data directly from here](https://www.dropbox.com/s/w9e71rzyus2f9uw/GPUtraining.tar.gz?dl=1)
+All the data/scripts used in this course is location on Artemis at ```/project/Training/GPUtraining``` (which you can access through the training accounts) or you can [download the data directly from here](https://unisyd-my.sharepoint.com/:u:/g/personal/nathaniel_butterworth_sydney_edu_au/EUUyWOiTT3FGkU3UQqhd5csBbwWXVBLH1jZvB4BGAcBb-g?e=4DNxJQ)
 
 # GPU Requirements
 
